@@ -17,4 +17,5 @@ $: npm i typescript -g
 install express and node @types :
 $: npm i @types/ws @types/express -D
 
-Je suis un cochon
+Je suis un cochon mechant
+
